@@ -1,2 +1,3 @@
 # spark-in-action-using-clojure
-Labs from Spark in Action
+
+Labs for Spark in Actions written in Clojure.
